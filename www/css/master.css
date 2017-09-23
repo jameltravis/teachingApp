@@ -1,0 +1,41 @@
+.navbar-nav > li {
+  padding-left:20px;
+  padding-right:20px;
+  color: black;
+}
+
+.navbar-nav > li > a {
+  color: black;
+}
+
+/*#background102 {
+  background-color: rgba(0, 123, 255, 0.6);
+  color: white;
+}*/
+
+html, body {
+  height: 100%;
+}
+
+.indexBody {
+  background-image: url(https://static.pexels.com/photos/247753/pexels-photo-247753.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.docBody {
+  background-color: #lightslate;
+}
+
+.jumbotronDocImage {
+  background-image: url(https://static.pexels.com/photos/357514/pexels-photo-357514.jpeg);
+  background-color: rgba(0, 0, 0, 0.1);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.colPadding {
+  padding: 5% 10% 10% 5%;
+  border-bottom: 1px solid slategray;
+}
