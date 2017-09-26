@@ -35,6 +35,14 @@ html, body {
   color: white;
 }
 
+.jumbotronAnnImage {
+  background-image: url(https://static.pexels.com/photos/258485/pexels-photo-258485.jpeg);
+  background-color: rgba(0, 0, 0, 0.1);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
 .colPadding {
   padding: 5% 10% 10% 5%;
   border-bottom: 1px solid slategray;
